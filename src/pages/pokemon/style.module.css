@@ -1,0 +1,7 @@
+.liStyle {
+  cursor: pointer;
+}
+
+.liStyle:hover {
+  color: red;
+}
